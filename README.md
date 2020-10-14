@@ -58,7 +58,7 @@ Your Super Mega Ultra Rare Hint = nama pdf-nya "Yes.pdf"
    - Lalu follow TCP stream paket yang pertama  
 ![14](https://user-images.githubusercontent.com/60419316/95986286-edd07900-0e4f-11eb-93f4-85548324505a.PNG)  
    - Save as soal7.zip  
-![15](https://user-images.githubusercontent.com/60419316/95986347-093b8400-0e50-11eb-8cce-f2bc3a91925f.PNG)
+![15](https://user-images.githubusercontent.com/60419316/95986347-093b8400-0e50-11eb-8cce-f2bc3a91925f.PNG)  
    - Buka Yes.pdf
 ![16](https://user-images.githubusercontent.com/60419316/95986382-19ebfa00-0e50-11eb-93fe-3c35fe2168e1.PNG)  
 

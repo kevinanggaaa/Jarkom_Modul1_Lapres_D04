@@ -63,9 +63,11 @@ Your Super Mega Ultra Rare Hint = nama pdf-nya "Yes.pdf"
 ![16](https://user-images.githubusercontent.com/60419316/95986382-19ebfa00-0e50-11eb-93fe-3c35fe2168e1.PNG)  
 
 8. Cari objek apa saja yang didownload (RETR) dari koneksi FTP dengan Microsoft FTP Service!  
-   - Cari objek yang didownload menggunakan command : ftp.request.command == RETR  
-   - Objek : Readme  
-![17](https://user-images.githubusercontent.com/60419316/95986446-3425d800-0e50-11eb-83fa-8e6e1bfb000c.PNG)  
+   - Cari ip dari Microsoft FTP Service dengan menggunakan command : ftp contains "Microsoft FTP Service"
+![39](https://user-images.githubusercontent.com/60419316/96268029-bd751000-0ff2-11eb-9561-4a6e127c9c32.PNG)
+   - Gunakan ip dari Mirosoft FTP Service untuk menfilter menggunakan command : ip.dst_host == 198.246.117.106 and ftp.request.command == RETR
+![40](https://user-images.githubusercontent.com/60419316/96268040-c1a12d80-0ff2-11eb-89a5-8b7d97d5fa1d.PNG)  
+![41](https://user-images.githubusercontent.com/60419316/96268290-15ac1200-0ff3-11eb-95ef-84be5f10664d.PNG)  
 
 9. Cari username dan password ketika login FTP pada localhost!  
    - USER : dhana  
